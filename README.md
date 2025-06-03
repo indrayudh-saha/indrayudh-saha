@@ -62,15 +62,12 @@
 - ⚙️ Building practical projects with modern stacks
 
 
-### 📖 Projects : 
-> _Coming soon..._
 
-I’ll be adding links to my projects like **MedCare App**, etc. Stay tuned.
 
 ---
 
 ### ✨ About Me
-I’m always eager to explore new technologies and improve my skills through real-world projects. Every project I’ve built is with hands-on research and support from AI tools like ChatGPT and GitHub Copilot.
+I’m always eager to explore new technologies and improve my skills through real-world projects.
 
 ---
 

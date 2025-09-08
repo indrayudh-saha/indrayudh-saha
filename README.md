@@ -73,6 +73,6 @@ I’m always eager to explore new technologies and improve my skills through rea
 
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/indrayudh-saha/)
-- 🌐 [Portfolio](https://your-portfolio-link.com/) _(Add later if available)_
+- 🌐 [Portfolio]([https://your-portfolio-link.com/](https://portfolio-indrayudh.vercel.app/))
 - 📨 Email: _indrayudhsaha@gmail.com_
 

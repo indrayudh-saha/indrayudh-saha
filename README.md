@@ -2,11 +2,12 @@
 
 About me
 
--🎓 BCA Graduate (2025)
--💼 Full Stack Developer at [@Websenso](https://www.webdenso.com/)
--⚙️ Working with Next.js, NestJS, React & modern backend systems
--📚 Currently learning DevOps (Docker, CI/CD, Deployment)
--🎮 Love gaming & watching anime
+-  🎓 BCA Graduate (2025)
+
+-  💼 Full Stack Developer at [@Websenso](https://www.webdenso.com/)
+-  ⚙️ Working with Next.js, NestJS, React & modern backend systems
+-  📚 Currently learning DevOps (Docker, CI/CD, Deployment)
+-  🎮 Love gaming & watching anime
 
 
 ---

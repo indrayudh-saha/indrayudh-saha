@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Indrayudh Saha </h1>
+<h1 align="left">Hi 👋, I'm Indrayudh Saha </h1>
 
----
+About me
 
-- Recent BCA Graduate 2025
-- Full Stack Engineer(Next JS, Nest JS , React, Express)
-- I love playing games and watching animes
-- Working as a Full Stack Developer at @Websenso
-- Learning Devops
+-🎓 BCA Graduate (2025)
+-💼 Full Stack Developer at [@Websenso](https://www.webdenso.com/)
+-⚙️ Working with Next.js, NestJS, React & modern backend systems
+-📚 Currently learning DevOps (Docker, CI/CD, Deployment)
+-🎮 Love gaming & watching anime
 
 
 ---
@@ -49,17 +49,6 @@
 </p>
 
 
-
-
-
-
-
----
-
-### ✨ About Me
-I’m always eager to explore new technologies and improve my skills through real-world projects.
-
----
 
 ### 📫 Connect with Me
 - 💼 LinkedIn - [indrayudhsaha](https://www.linkedin.com/in/indrayudh-saha/)

@@ -82,10 +82,11 @@ About me
   - A real-time coding interview platform with video communication and an integrated code editor (VS Code-like experience)
   - Tech: <br>
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Convex-EE342F?style=flat&logo=data&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Convex-EE342F?style=flat&logo=convex&logoColor=white"/>
     <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat&logo=clerk&logoColor=white"/>
     <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white"/>
     <img src="https://img.shields.io/badge/TypeScript-2D3748?style=flat&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Postman-2D3748?style=flat&logo=postman&logoColor=white"/>
 
 
 

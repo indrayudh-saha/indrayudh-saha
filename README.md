@@ -39,6 +39,7 @@ About me
 </p>
 
 #### ☁️ Cloud & Storage
+#### ☁️ Cloud & Storage
 <p>
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>

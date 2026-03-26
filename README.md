@@ -39,7 +39,6 @@ About me
 </p>
 
 #### ☁️ Cloud & Storage
-#### ☁️ Cloud & Storage
 <p>
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
@@ -67,7 +66,7 @@ About me
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=indrayudh-saha&show_icons=true&theme=radical" />
   <img src="https://streak-stats.demolab.com?user=indrayudh-saha&theme=radical" />
 </p>
 

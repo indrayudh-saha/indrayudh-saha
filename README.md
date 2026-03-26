@@ -85,6 +85,7 @@ About me
     <img src="https://img.shields.io/badge/Convex-EE342F?style=flat&logo=data&logoColor=white"/>
     <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat&logo=clerk&logoColor=white"/>
     <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-2D3748?style=flat&logo=typescript&logoColor=white"/>
 
 
 

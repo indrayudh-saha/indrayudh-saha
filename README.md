@@ -79,7 +79,7 @@ About me
 
 - 🔹 [Interviewer](https://interviewer-sigma-flax.vercel.app/)
   - A real-time coding interview platform with video communication and an integrated code editor (VS Code-like experience)
-  - Tech:
+  - Tech: <br>
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Convex-EE342F?style=flat&logo=data&logoColor=white"/>
     <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat&logo=clerk&logoColor=white"/>
